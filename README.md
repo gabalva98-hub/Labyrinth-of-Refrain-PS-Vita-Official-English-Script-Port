@@ -6,8 +6,8 @@ An unofficial adaptation of the Nintendo Switch English localization for the Jap
 
 ## Downloads
 
-- [R22 patcher](REFRAIN_VITA_R22_ANDROID_EN.zip) — approximately 18.2 MB, compressed ZIP.
-- [Historical R15 story comparison](HISTORIA_ADAPTADA_JP_SWITCH_VITA_R15_VWF02.csv): records the 476 previously adapted passages. Its “English text used” column describes R15, not the current patch. **Contains story spoilers.**
+- R22 patcher — approximately 18.2 MB, compressed ZIP.
+- Historical R15 story comparison HISTORIA_ADAPTADA_JP_SWITCH_VITA_R15_VWF02.csv: records the 476 previously adapted passages. Its “English text used” column describes R15, not the current patch. **Contains story spoilers.**
 
 ## Requirements
 
